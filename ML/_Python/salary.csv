@@ -1,0 +1,14 @@
+company,job,degree,salary
+google,se,b,0
+google,bm,b,1
+google,cp,b,0
+google,se,m,1
+google,bm,m,1
+pharma,bm,m,1
+pharma,se,m,0
+pharma,bm,b,0
+pharma,se,b,0
+facebook,cp,b,0
+facebook,cp,m,1
+facebook,bm,b,0
+facebook,bm,m,1
